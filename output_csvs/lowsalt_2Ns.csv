@@ -1,0 +1,25 @@
+,root_id,upstream_lowsalt_GRNs,lowsalt_syn_count,const,nt_type,side,input_synapses,output_synapses,activation_25Hz,label,activation_50Hz,activation_75Hz,activation_100Hz,activation_125Hz,activation_150Hz,activation_175Hz,activation_200Hz,%_lowsalt_input,avg_upstream_synapses,neuron_type,#_projection_synapses
+0,720575940604891360,1,6,1,,left,964.0,676.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.6224066390041494,6.0,local,0
+1,720575940610550830,3,18,1,ACH,left,493.0,426.0,non activated,low salt,non activated,non activated,non activated,activated,activated,activated,activated,3.6511156186612577,6.0,local,0
+2,720575940610956334,1,5,1,GABA,left,643.0,1726.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,non activated,activated,0.7776049766718507,5.0,projection,1403
+3,720575940613524973,1,5,1,ACH,left,705.0,161.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.7092198581560284,5.0,projection,77
+4,720575940614128691,3,36,1,ACH,left,1168.0,556.0,non activated,low salt,non activated,activated,activated,activated,activated,activated,activated,3.0821917808219177,12.0,projection,10
+5,720575940614635175,9,301,1,GABA,right,4972.0,2947.0,activated,low salt,activated,activated,activated,activated,activated,activated,activated,6.053901850362027,33.44444444444444,projection,5
+6,720575940616759014,3,15,1,ACH,right,538.0,971.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,non activated,activated,2.7881040892193307,5.0,projection,800
+7,720575940619034782,1,6,1,GLUT,left,729.0,445.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.823045267489712,6.0,projection,325
+8,720575940620553094,9,365,1,GABA,left,4534.0,3018.0,activated,low salt,activated,activated,activated,activated,activated,activated,activated,8.050286722540804,40.55555555555556,local,0
+9,720575940621218694,9,148,1,GLUT,right,945.0,2108.0,activated,low salt,activated,activated,activated,activated,activated,activated,activated,15.661375661375661,16.444444444444443,local,0
+10,720575940621953285,9,221,1,GLUT,left,673.0,634.0,activated,low salt,activated,activated,activated,activated,activated,activated,activated,32.838038632986624,24.555555555555557,projection,8
+11,720575940623696362,2,11,1,GABA,left,725.0,859.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.5172413793103448,5.5,local,0
+12,720575940624234254,9,158,1,ACH,left,591.0,871.0,activated,low salt,activated,activated,activated,activated,activated,activated,activated,26.73434856175973,17.555555555555557,projection,683
+13,720575940624600840,1,7,1,GLUT,left,3752.0,2450.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.18656716417910446,7.0,local,0
+14,720575940627709956,1,5,1,GLUT,left,1051.0,866.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,activated,activated,0.47573739295908657,5.0,projection,94
+15,720575940628683063,3,26,1,ACH,left,1194.0,1050.0,non activated,low salt,non activated,non activated,activated,activated,activated,activated,activated,2.1775544388609713,8.666666666666666,local,0
+16,720575940630575943,2,14,1,ACH,left,377.0,156.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,non activated,non activated,3.7135278514588856,7.0,local,0
+17,720575940631092943,9,555,1,GLUT,right,3020.0,1927.0,activated,low salt,activated,activated,activated,activated,activated,activated,activated,18.37748344370861,61.666666666666664,local,0
+18,720575940631448874,3,20,1,GABA,left,921.0,920.0,non activated,low salt,non activated,non activated,activated,activated,activated,activated,activated,2.1715526601520088,6.666666666666667,projection,640
+19,720575940633198284,1,6,1,ACH,left,1095.0,1009.0,non activated,low salt,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.547945205479452,6.0,local,0
+20,720575940634090777,2,13,1,GABA,right,620.0,1412.0,non activated,low salt,non activated,non activated,non activated,activated,activated,activated,activated,2.0967741935483875,6.5,local,0
+21,720575940635642725,1,6,1,GABA,left,392.0,295.0,non activated,low salt,non activated,non activated,non activated,non activated,activated,activated,activated,1.530612244897959,6.0,projection,204
+22,720575940637956698,4,68,1,ACH,left,981.0,820.0,non activated,low salt,activated,activated,activated,activated,activated,activated,activated,6.931702344546381,17.0,projection,656
+23,720575940642335373,2,12,1,GABA,left,1196.0,993.0,non activated,low salt,non activated,non activated,activated,activated,activated,activated,activated,1.0033444816053512,6.0,projection,6

@@ -1,0 +1,77 @@
+,root_id,upstream_sugar_GRNs,sugar_syn_count,const,nt_type,side,input_synapses,output_synapses,activation_25Hz,label,activation_50Hz,activation_75Hz,activation_100Hz,activation_125Hz,activation_150Hz,activation_175Hz,activation_200Hz,%_sugar_input,avg_upstream_synapses,neuron_type,#_projection_synapses
+0,720575940606866377,9,87,1,GABA,right,1483.0,1642.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,5.866486850977748,9.666666666666666,local,0
+1,720575940610584945,1,11,1,ACH,right,764.0,957.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.4397905759162304,11.0,local,0
+2,720575940610916465,3,32,1,GABA,right,2005.0,844.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,1.596009975062344,10.666666666666666,local,0
+3,720575940611015122,11,118,1,ACH,right,918.0,267.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,12.854030501089325,10.727272727272727,local,0
+4,720575940611149922,1,5,1,GLUT,left,2884.0,1079.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.17337031900138697,5.0,local,0
+5,720575940612064113,8,65,1,GABA,left,249.0,324.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,26.104417670682732,8.125,local,0
+6,720575940612479205,1,8,1,GABA,left,842.0,1103.0,non activated,sugar,non activated,activated,activated,activated,activated,activated,activated,0.9501187648456058,8.0,projection,5
+7,720575940612611301,1,5,1,ACH,left,1222.0,1307.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.4091653027823241,5.0,local,0
+8,720575940612648106,2,17,1,ACH,left,347.0,670.0,non activated,sugar,non activated,activated,activated,activated,activated,activated,activated,4.899135446685879,8.5,local,0
+9,720575940613361010,1,5,1,ACH,left,311.0,572.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.607717041800643,5.0,projection,445
+10,720575940614418794,1,6,1,SER,left,521.0,258.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.1516314779270633,6.0,local,0
+11,720575940614660519,2,12,1,DA,right,1625.0,578.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.7384615384615384,6.0,local,0
+12,720575940614763666,11,185,1,ACH,left,1312.0,874.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,14.10060975609756,16.818181818181817,local,0
+13,720575940614998166,1,13,1,ACH,right,754.0,1077.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.7241379310344827,13.0,local,0
+14,720575940615041430,3,31,1,GABA,left,4356.0,2673.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.711662075298439,10.333333333333334,projection,11
+15,720575940616103218,10,121,1,GABA,left,601.0,874.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,20.133111480865225,12.1,local,0
+16,720575940617593233,6,65,1,ACH,left,732.0,454.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,8.879781420765028,10.833333333333334,local,0
+17,720575940618574749,5,39,1,ACH,left,10072.0,394.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.3872120730738682,7.8,local,0
+18,720575940618696989,4,39,1,GABA,left,238.0,648.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,16.386554621848738,9.75,local,0
+19,720575940619588568,6,46,1,GABA,left,242.0,739.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,19.00826446280992,7.666666666666667,local,0
+20,720575940619973712,17,219,1,GABA,left,1479.0,1699.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,14.807302231237324,12.882352941176471,local,0
+21,720575940620589838,1,7,1,ACH,right,134.0,231.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,5.223880597014925,7.0,local,0
+22,720575940620856046,2,11,1,ACH,left,230.0,338.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,4.782608695652174,5.5,local,0
+23,720575940620874757,15,316,1,ACH,left,993.0,530.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,31.822759315206444,21.066666666666666,local,0
+24,720575940621329328,2,11,1,ACH,left,942.0,621.0,non activated,sugar,non activated,non activated,activated,activated,activated,activated,activated,1.167728237791932,5.5,local,0
+25,720575940622405708,1,8,1,ACH,right,125.0,101.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,6.4,8.0,local,0
+26,720575940622413508,1,5,1,ACH,left,136.0,84.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,3.6764705882352944,5.0,local,0
+27,720575940622695448,21,435,1,GABA,right,1070.0,1814.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,40.654205607476634,20.714285714285715,local,0
+28,720575940622825736,1,5,1,ACH,left,128.0,135.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,3.90625,5.0,local,0
+29,720575940623210445,7,102,1,ACH,left,1023.0,1146.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,9.970674486803519,14.571428571428571,local,0
+30,720575940623718380,6,71,1,ACH,right,828.0,453.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,activated,activated,8.57487922705314,11.833333333333334,local,0
+31,720575940624084372,2,24,1,ACH,left,1260.0,1606.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,1.9047619047619049,12.0,local,0
+32,720575940625047484,2,15,1,,left,1061.0,1109.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,1.413760603204524,7.5,local,0
+33,720575940625102692,7,81,1,ACH,left,1956.0,1775.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,4.141104294478527,11.571428571428571,local,0
+34,720575940625164558,2,11,1,ACH,right,1024.0,292.0,non activated,sugar,non activated,non activated,non activated,activated,activated,activated,activated,1.07421875,5.5,local,0
+35,720575940625175054,1,5,1,ACH,left,1289.0,832.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.3878975950349108,5.0,local,0
+36,720575940625178768,6,48,1,ACH,left,2347.0,1307.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,2.0451640391989776,8.0,local,0
+37,720575940625580988,1,5,1,ACH,left,854.0,741.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.5854800936768151,5.0,local,0
+38,720575940625705930,3,25,1,GABA,left,1102.0,1905.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,2.268602540834846,8.333333333333334,local,0
+39,720575940625867056,5,36,1,DA,left,1693.0,581.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,2.12640283520378,7.2,local,0
+40,720575940626191306,19,249,1,ACH,left,1038.0,590.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,23.98843930635838,13.105263157894736,local,0
+41,720575940626279742,7,47,1,ACH,left,997.0,223.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,4.714142427281845,6.714285714285714,local,0
+42,720575940626972056,3,15,1,GABA,right,245.0,614.0,non activated,sugar,non activated,non activated,activated,activated,activated,activated,activated,6.122448979591836,5.0,local,0
+43,720575940627083294,1,6,1,ACH,right,952.0,855.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.6302521008403361,6.0,local,0
+44,720575940627383685,18,311,1,GABA,left,1053.0,1640.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,29.534662867996204,17.27777777777778,local,0
+45,720575940628114684,5,69,1,GABA,left,607.0,292.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,11.367380560131796,13.8,local,0
+46,720575940629888530,17,473,1,ACH,left,1391.0,421.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,34.00431344356578,27.823529411764707,local,0
+47,720575940630461660,1,6,1,ACH,right,1675.0,1352.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.3582089552238806,6.0,local,0
+48,720575940630664556,1,5,1,GABA,left,3632.0,3275.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.13766519823788548,5.0,local,0
+49,720575940630689644,1,8,1,ACH,left,711.0,365.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,activated,activated,1.1251758087201125,8.0,local,0
+50,720575940631147148,1,5,1,SER,right,115.0,93.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,4.3478260869565215,5.0,local,0
+51,720575940631349335,3,23,1,DA,right,1429.0,521.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,1.609517144856543,7.666666666666667,local,0
+52,720575940631412778,1,6,1,ACH,left,144.0,583.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,4.166666666666666,6.0,local,0
+53,720575940631703608,2,20,1,ACH,left,3076.0,1371.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.6501950585175552,10.0,local,0
+54,720575940632047890,7,112,1,ACH,left,4060.0,1406.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,2.7586206896551726,16.0,local,0
+55,720575940632293346,1,7,1,ACH,left,215.0,412.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,3.255813953488372,7.0,local,0
+56,720575940632648612,15,155,1,GABA,left,684.0,1602.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,22.660818713450293,10.333333333333334,local,0
+57,720575940632648868,1,6,1,ACH,right,829.0,791.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.7237635705669482,6.0,local,0
+58,720575940632877869,1,6,1,ACH,right,279.0,597.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,2.1505376344086025,6.0,local,0
+59,720575940633277209,12,124,1,GABA,right,1343.0,1859.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,9.233060312732688,10.333333333333334,local,0
+60,720575940635179871,7,58,1,GABA,left,1453.0,1626.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,3.9917412250516175,8.285714285714286,local,0
+61,720575940636675214,1,15,1,ACH,right,1019.0,803.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.4720314033366046,15.0,local,0
+62,720575940637763135,1,6,1,GABA,right,332.0,927.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.8072289156626504,6.0,local,0
+63,720575940637790527,2,12,1,ACH,left,586.0,516.0,non activated,sugar,non activated,non activated,non activated,activated,activated,activated,activated,2.04778156996587,6.0,projection,451
+64,720575940638103349,12,190,1,ACH,left,2088.0,1389.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,9.099616858237548,15.833333333333334,local,0
+65,720575940638183652,1,17,1,ACH,left,222.0,624.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,7.657657657657657,17.0,local,0
+66,720575940639274147,2,13,1,ACH,left,970.0,756.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.3402061855670102,6.5,local,0
+67,720575940641366517,8,67,1,GABA,right,564.0,1469.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,11.879432624113475,8.375,local,0
+68,720575940642335373,2,12,1,GABA,left,1196.0,993.0,non activated,sugar,non activated,non activated,activated,activated,activated,activated,activated,1.0033444816053512,6.0,projection,6
+69,720575940642361485,1,10,1,,left,10.0,181.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,100.0,10.0,local,0
+70,720575940642428045,3,25,1,ACH,left,1363.0,1053.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,1.834189288334556,8.333333333333334,local,0
+71,720575940647033396,3,33,1,GABA,right,1836.0,690.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,1.7973856209150325,11.0,local,0
+72,720575940647561524,1,7,1,ACH,left,165.0,75.0,non activated,sugar,non activated,non activated,non activated,non activated,non activated,non activated,non activated,4.242424242424243,7.0,local,0
+73,720575940655011489,3,17,1,ACH,left,2220.0,1362.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.7657657657657657,5.666666666666667,projection,1162
+74,720575940655013025,1,7,1,ACH,left,868.0,862.0,non activated,sugar,activated,activated,activated,activated,activated,activated,activated,0.8064516129032258,7.0,local,0
+75,720575940655014049,11,242,1,ACH,left,1357.0,765.0,activated,sugar,activated,activated,activated,activated,activated,activated,activated,17.833456153279293,22.0,local,0

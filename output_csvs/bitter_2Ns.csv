@@ -1,0 +1,65 @@
+,root_id,upstream_bitter_GRNs,bitter_syn_count,const,nt_type,side,input_synapses,output_synapses,activation_25Hz,label,activation_50Hz,activation_75Hz,activation_100Hz,activation_125Hz,activation_150Hz,activation_175Hz,activation_200Hz,%_bitter_input,avg_upstream_synapses,neuron_type,#_projection_synapses
+0,720575940605158572,4,39,1,GABA,left,687.0,487.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,5.676855895196507,9.75,local,0
+1,720575940608601355,3,17,1,ACH,right,739.0,653.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,2.3004059539918806,5.666666666666667,projection,469
+2,720575940610609454,1,7,1,ACH,right,202.0,506.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,3.4653465346534658,7.0,projection,306
+3,720575940610690372,6,39,1,GLUT,left,2294.0,1575.0,non activated,bitter,activated,activated,activated,activated,activated,activated,activated,1.7000871839581517,6.5,local,0
+4,720575940610956334,2,11,1,GABA,left,643.0,1726.0,non activated,bitter,non activated,non activated,activated,activated,activated,activated,activated,1.7107309486780715,5.5,projection,1403
+5,720575940611149922,2,15,1,GLUT,left,2884.0,1079.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,0.5201109570041609,7.5,local,0
+6,720575940613942703,2,19,1,ACH,right,1489.0,1137.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.2760241773002015,9.5,local,0
+7,720575940614099142,1,5,1,ACH,right,298.0,1004.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,activated,1.6778523489932886,5.0,projection,833
+8,720575940614139089,5,34,1,ACH,left,274.0,915.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,12.408759124087592,6.8,projection,698
+9,720575940614418794,1,6,1,SER,left,521.0,258.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,1.1516314779270633,6.0,local,0
+10,720575940614635175,18,381,1,GABA,right,4972.0,2947.0,activated,bitter,activated,activated,activated,activated,activated,activated,activated,7.662912308930007,21.166666666666668,projection,5
+11,720575940615292895,5,46,1,ACH,left,1604.0,1018.0,non activated,bitter,non activated,non activated,activated,activated,activated,activated,activated,2.8678304239401498,9.2,local,0
+12,720575940615495839,1,6,1,GABA,left,722.0,660.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,0.8310249307479225,6.0,local,0
+13,720575940617335382,2,19,1,ACH,left,536.0,545.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,3.544776119402985,9.5,projection,533
+14,720575940619247424,2,12,1,ACH,left,374.0,97.0,non activated,bitter,non activated,non activated,non activated,non activated,activated,activated,activated,3.2085561497326207,6.0,local,0
+15,720575940619659861,1,5,1,SER,right,38.0,5.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,13.157894736842104,5.0,local,0
+16,720575940620062288,8,95,1,GLUT,right,3556.0,2487.0,activated,bitter,activated,activated,activated,activated,activated,activated,activated,2.671541057367829,11.875,local,0
+17,720575940620262465,1,6,1,GLUT,right,2057.0,1241.0,non activated,bitter,non activated,non activated,non activated,non activated,activated,activated,activated,0.2916869227029655,6.0,local,0
+18,720575940620441024,1,6,1,GABA,right,470.0,1219.0,non activated,bitter,non activated,non activated,non activated,non activated,activated,activated,activated,1.276595744680851,6.0,projection,923
+19,720575940620553094,16,375,1,GABA,left,4534.0,3018.0,activated,bitter,activated,activated,activated,activated,activated,activated,activated,8.27084252315836,23.4375,local,0
+20,720575940621089741,3,17,1,ACH,left,229.0,119.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,7.423580786026202,5.666666666666667,projection,57
+21,720575940621442124,4,20,1,GLUT,right,866.0,1048.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,2.3094688221709005,5.0,projection,184
+22,720575940621902085,1,9,1,GABA,right,279.0,265.0,non activated,bitter,non activated,non activated,activated,activated,activated,activated,activated,3.225806451612903,9.0,local,0
+23,720575940622154266,1,5,1,GLUT,left,406.0,1108.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,1.2315270935960592,5.0,local,0
+24,720575940622537477,4,31,1,GABA,left,1624.0,483.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,1.9088669950738917,7.75,local,0
+25,720575940622541005,2,12,1,GABA,left,487.0,1134.0,non activated,bitter,non activated,non activated,activated,activated,activated,activated,activated,2.4640657084188913,6.0,projection,856
+26,720575940622688765,1,5,1,ACH,right,270.0,204.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.8518518518518516,5.0,local,0
+27,720575940623154712,5,31,1,GABA,right,1297.0,2285.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,2.3901310717039324,6.2,local,0
+28,720575940623208141,5,34,1,GABA,right,917.0,1215.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,3.707742639040349,6.8,local,0
+29,720575940623381286,8,97,1,GLUT,left,1081.0,1016.0,activated,bitter,activated,activated,activated,activated,activated,activated,activated,8.973172987974099,12.125,local,0
+30,720575940623986364,2,11,1,ACH,left,150.0,296.0,non activated,bitter,non activated,non activated,non activated,non activated,activated,activated,activated,7.333333333333333,5.5,projection,141
+31,720575940624253991,4,45,1,ACH,left,380.0,218.0,non activated,bitter,activated,activated,activated,activated,activated,activated,activated,11.842105263157894,11.25,local,0
+32,720575940624273149,5,46,1,ACH,left,316.0,224.0,non activated,bitter,activated,activated,activated,activated,activated,activated,activated,14.556962025316455,9.2,local,0
+33,720575940624600840,11,231,1,GLUT,left,3752.0,2450.0,activated,bitter,activated,activated,activated,activated,activated,activated,activated,6.156716417910448,21.0,local,0
+34,720575940625339981,1,11,1,GABA,right,566.0,507.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,1.9434628975265018,11.0,local,0
+35,720575940625728551,8,101,1,GABA,left,1457.0,2524.0,activated,bitter,activated,activated,activated,activated,activated,activated,activated,6.9320521619766655,12.625,local,0
+36,720575940625750105,1,6,1,SER,right,72.0,263.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,8.333333333333332,6.0,local,0
+37,720575940625867056,1,7,1,DA,left,1693.0,581.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.4134672179562906,7.0,local,0
+38,720575940626127432,1,5,1,ACH,left,135.0,105.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,3.7037037037037033,5.0,local,0
+39,720575940626390018,1,8,1,ACH,left,141.0,221.0,non activated,bitter,non activated,non activated,activated,activated,activated,activated,activated,5.673758865248227,8.0,projection,90
+40,720575940627709956,6,42,1,GLUT,left,1051.0,866.0,non activated,bitter,activated,activated,activated,activated,activated,activated,activated,3.9961941008563278,7.0,projection,94
+41,720575940627815080,5,33,1,ACH,right,875.0,571.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,3.7714285714285714,6.6,projection,542
+42,720575940627827697,1,6,1,GABA,right,1383.0,499.0,non activated,bitter,non activated,non activated,non activated,non activated,activated,activated,activated,0.43383947939262474,6.0,local,0
+43,720575940627916331,2,11,1,ACH,right,1320.0,1002.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.8333333333333334,5.5,local,0
+44,720575940627936515,1,6,1,ACH,right,256.0,175.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,2.34375,6.0,local,0
+45,720575940628024107,3,16,1,ACH,left,171.0,328.0,non activated,bitter,non activated,non activated,activated,activated,activated,activated,activated,9.35672514619883,5.333333333333333,projection,191
+46,720575940628683063,5,57,1,ACH,left,1194.0,1050.0,activated,bitter,activated,activated,activated,activated,activated,activated,activated,4.773869346733668,11.4,local,0
+47,720575940629481516,1,10,1,SER,right,78.0,183.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,12.82051282051282,10.0,local,0
+48,720575940630575943,2,11,1,ACH,left,377.0,156.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,activated,2.9177718832891246,5.5,local,0
+49,720575940630686060,2,11,1,ACH,right,98.0,250.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,11.224489795918368,5.5,projection,106
+50,720575940630999493,4,25,1,GABA,left,1035.0,1707.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,2.4154589371980677,6.25,local,0
+51,720575940631092943,3,22,1,GLUT,right,3020.0,1927.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,activated,activated,0.728476821192053,7.333333333333333,local,0
+52,720575940632556831,3,37,1,ACH,left,607.0,448.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,6.095551894563426,12.333333333333334,projection,286
+53,720575940634788247,5,56,1,ACH,left,440.0,186.0,non activated,bitter,activated,activated,activated,activated,activated,activated,activated,12.727272727272727,11.2,local,0
+54,720575940634844408,3,20,1,ACH,right,404.0,207.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,4.9504950495049505,6.666666666666667,local,0
+55,720575940635210859,3,16,1,SER,left,381.0,301.0,non activated,bitter,non activated,non activated,activated,activated,activated,activated,activated,4.199475065616798,5.333333333333333,local,0
+56,720575940635925615,5,32,1,,right,534.0,339.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,5.992509363295881,6.4,local,0
+57,720575940636541285,2,13,1,ACH,left,2530.0,1468.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,0.5138339920948617,6.5,local,0
+58,720575940637742150,8,74,1,ACH,left,516.0,198.0,non activated,bitter,activated,activated,activated,activated,activated,activated,activated,14.34108527131783,9.25,local,0
+59,720575940637788137,3,28,1,ACH,center,459.0,157.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,6.1002178649237475,9.333333333333334,local,0
+60,720575940638557312,8,122,1,ACH,left,499.0,190.0,activated,bitter,activated,activated,activated,activated,activated,activated,activated,24.448897795591183,15.25,local,0
+61,720575940638604915,2,16,1,ACH,left,1440.0,1085.0,non activated,bitter,non activated,non activated,non activated,activated,activated,activated,activated,1.1111111111111112,8.0,local,0
+62,720575940641536987,5,34,1,ACH,left,1000.0,2115.0,non activated,bitter,non activated,activated,activated,activated,activated,activated,activated,3.4000000000000004,6.8,projection,1806
+63,720575940660281217,1,5,1,GABA,left,431.0,841.0,non activated,bitter,non activated,non activated,non activated,non activated,non activated,non activated,non activated,1.160092807424594,5.0,projection,583
